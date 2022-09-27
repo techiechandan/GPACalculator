@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GPACalculator/static/css/main.aa8edfa2.css",
-    "main.js": "/GPACalculator/static/js/main.d0588f48.js",
+    "main.js": "/GPACalculator/static/js/main.f96b66e9.js",
     "static/js/787.329938a8.chunk.js": "/GPACalculator/static/js/787.329938a8.chunk.js",
     "static/media/image.png": "/GPACalculator/static/media/image.88c61e9c4bbf3e86121f.png",
     "static/media/Example1.png": "/GPACalculator/static/media/Example1.d89cb532cbfd6b40ce27.png",
@@ -9,11 +9,11 @@
     "static/media/downloadIcon.png": "/GPACalculator/static/media/downloadIcon.8d8a2ad8c2fe022d8f66.png",
     "index.html": "/GPACalculator/index.html",
     "main.aa8edfa2.css.map": "/GPACalculator/static/css/main.aa8edfa2.css.map",
-    "main.d0588f48.js.map": "/GPACalculator/static/js/main.d0588f48.js.map",
+    "main.f96b66e9.js.map": "/GPACalculator/static/js/main.f96b66e9.js.map",
     "787.329938a8.chunk.js.map": "/GPACalculator/static/js/787.329938a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa8edfa2.css",
-    "static/js/main.d0588f48.js"
+    "static/js/main.f96b66e9.js"
   ]
 }
